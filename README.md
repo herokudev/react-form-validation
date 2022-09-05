@@ -7,13 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     <img src="https://raw.githubusercontent.com/herokudev/react-form-validation/main/src/formvalid01.jpg" width="700">    
 </p>
 <p align="center">
-    <img src="./formvalid02.jpg" width="700">    
+    <img src="https://raw.githubusercontent.com/herokudev/react-form-validation/main/src/formvalid02.jpg" width="700">    
 </p>
 <p align="center">
-    <img src="./formvalid03.jpg" width="700">    
+    <img src="https://raw.githubusercontent.com/herokudev/react-form-validation/main/src/formvalid03.jpg" width="700">    
 </p>
 <p align="center">
-    <img src="./formvalid04.jpg" width="700">    
+    <img src="https://raw.githubusercontent.com/herokudev/react-form-validation/main/src/formvalid04.jpg" width="700">    
 </p>
 
 
