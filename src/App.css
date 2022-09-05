@@ -1,0 +1,15 @@
+form {
+  font-family: 'Open Sans', sans-serif;
+}
+
+form div {
+padding:0.3rem;
+}
+form input {
+font-size:1rem;
+padding:0.3rem;
+}
+
+form input:invalid {
+border:1px solid red;
+}
