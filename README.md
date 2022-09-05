@@ -4,16 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project preview
 <p align="center">
-    <img alt="Home Page" style="border: 1px solid black;" src="./formvalid01.jpg" width="700">    
+    <img src="./formvalid01.jpg" width="700">    
 </p>
 <p align="center">
-    <img alt="Home Page" style="border: 1px solid black;" src="./formvalid02.jpg" width="700">    
+    <img src="./formvalid02.jpg" width="700">    
 </p>
 <p align="center">
-    <img alt="Home Page" style="border: 1px solid black;" src="./formvalid03.jpg" width="700">    
+    <img src="./formvalid03.jpg" width="700">    
 </p>
 <p align="center">
-    <img alt="Home Page" style="border: 1px solid black;" src="./formvalid04.jpg" width="700">    
+    <img src="./formvalid04.jpg" width="700">    
 </p>
 
 
