@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project preview
 <p align="center">
-    <img src="./formvalid01.jpg" width="700">    
+    <img src="https://raw.githubusercontent.com/herokudev/react-form-validation/main/src/formvalid01.jpg" width="700">    
 </p>
 <p align="center">
     <img src="./formvalid02.jpg" width="700">    
